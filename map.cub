@@ -1,0 +1,19 @@
+NO ./textures/ramz.xpm
+
+R 1000 1000
+SO ./textures/ramz2.xpm
+WE      ./textures/ramz3.xpm 
+EA ./textures/banana_cat.xpm
+
+
+S  ./sprites/tree.xpm
+C 255, 255, 255
+F 120,   120,     255
+
+ 11111111111111
+1000000000200101
+1000200200002001
+1000000002000001
+1100000000010N01
+1011011111110101
+ 11111111111111
